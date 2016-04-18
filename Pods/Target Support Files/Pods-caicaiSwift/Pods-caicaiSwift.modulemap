@@ -1,0 +1,6 @@
+framework module Pods_caicaiSwift {
+  umbrella header "Pods-caicaiSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (3.3.1)
+  - FBRetainCycleDetector (0.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - FBRetainCycleDetector
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  FBRetainCycleDetector: 2f5eede420492607df2bee1807887383b9887109
+
+PODFILE CHECKSUM: 4a69919e9c30efba53489cd465c201520e78a057
+
+COCOAPODS: 1.0.0.beta.8
